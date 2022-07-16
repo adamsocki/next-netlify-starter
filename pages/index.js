@@ -17,7 +17,6 @@ export default function Home() {
          <Header title="Welcome to Adam Socki's app!" />
          <p className="description">
            This is Adam Sockis first Page. <code>pages/index.js</code>
-           This is Adam Sockis first Page. 
          </p>
        </main>
     )
